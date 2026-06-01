@@ -69,12 +69,3 @@ Este repositório demonstra:
 - Produção de material reutilizável e aplicável em revisões futuras.
 
 ---
-
-## 📎 Entrega na DIO
-Após finalizar este README.md:
-1. Copie a URL principal do repositório.
-2. Vá até a página do desafio na DIO.
-3. Cole o link e adicione uma descrição bacana sobre o tema estudado.
-4. Confirme a entrega!
-
----
